@@ -1,0 +1,10 @@
+Dataset_Name,Dataset_Link
+Website Traffic Analysis, https://tn.data.gov.in/resource/location-wise-daily-ambient-air-quality-tamil-nadu-year-2014
+TN Marginal Workers Assessment, https://tn.data.gov.in/resource/marginal-workers-classified-age-industrial-category-and-sex-scheduled-caste-2011-tamil
+COVID Vaccines Analysis, https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress
+Product Sales Analysis, https://www.kaggle.com/datasets/ksabishek/product-sales-data
+Customer Churn Prediction, https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+COVID-19 using Cognos, https://www.kaggle.com/datasets/chakradharmattapalli/covid-19-cases
+Public Transportation Analysis, https://www.kaggle.com/datasets/rednivrug/unisys?select=20140711.CSV
+Public Health Awareness, https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
+Water Quality Analysis, https://www.kaggle.com/datasets/adityakadiwal/water-potability

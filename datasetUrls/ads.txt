@@ -1,0 +1,11 @@
+Dataset_Name,Dataset_Link
+Credit Card Fraud Detection, https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Predicting IMDb Scores, https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores
+Future Sales Prediction - Guidelines, https://www.kaggle.com/datasets/chakradharmattapalli/future-sales-prediction
+Electricity Prices Prediction, https://www.kaggle.com/datasets/chakradharmattapalli/electricity-price-prediction
+Covid-19 Vaccines Analysis, https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress
+Stock Price Prediction, https://www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset
+Assessment of Marginal Workers in TamilNadu, https://tn.data.gov.in/catalog/marginal-workers-classified-age-industrial-category-and-sex-census-2011-india-and-states
+Customer Segmentation using Data Science, https://www.kaggle.com/datasets/akram24/mall-customers
+Air Quality Analysis and Prediction in Tamil Nadu, https://tn.data.gov.in/resource/location-wise-daily-ambient-air-quality-tamil-nadu-year-2014
+Product Demand Prediction with Machine Learnings, https://www.kaggle.com/datasets/chakradharmattapalli/product-demand-prediction-with-machine-learning

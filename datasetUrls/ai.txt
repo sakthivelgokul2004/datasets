@@ -1,0 +1,10 @@
+Dataset_Name,Dataset_Link
+Building a Smarter AI-Powered Spam Classifier - Guidelines, https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+AI Based Diabetes Prediction System - Guidelines, https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+Fake News Detection Using NLP - Guidelines, https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+Earthquake Prediction Model using Python - Guidelines, https://www.kaggle.com/datasets/usgs/earthquake-database
+AI-Driven Exploration and Prediction of Company Registration Trends with (RoC) - Guidelines, https://tn.data.gov.in/resource/company-master-data-tamil-nadu-upto-28th-february-2019
+Predicting House Prices using Machine Learning - Guidelines, https://www.kaggle.com/datasets/vedavyasv/usa-housing
+Market Basket Insights - Guidelines, https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis
+Create a chatbot in Python, https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot
+Measure Energy Consumption, https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
