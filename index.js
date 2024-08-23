@@ -39,8 +39,8 @@ async function run(data) {
     // console.log('login')
     let inputselector = '.mdc-text-field__input'
     await page.waitForSelector(inputselector)
-    await page.type('[name=email]', 'k.sakthivel805697@gmail.com')
-    await page.type('[name=password]', '8tunQmLPfMG5t25')
+    await page.type('[name=email]', 'email')
+    await page.type('[name=password]', 'password')
     const signInButtonSelector = ' button.duyVtl';
     await page.click(signInButtonSelector);
 
